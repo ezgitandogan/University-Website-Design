@@ -2,4 +2,4 @@
 
 # Ekran Görüntüsü
 
-![](gif.webm)
+![](website.gif)
