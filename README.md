@@ -2,4 +2,4 @@
 
 # Ekran Görüntüsü
 
-![](website.gif)
+![](website-min.gif)
